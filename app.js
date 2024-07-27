@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const storedLinks = JSON.parse(localStorage.getItem('links')) || [
         { title: 'YouTube', url: 'https://m.youtube.com/channel/UC1uU0sXucXtOvSwIAGBCnyQ' },
-        { title: 'Twitter', url: 'https://twitter.com/yourprofile' },
+        { title: 'Twitter', url: 'https://twitter.com/skvgamerz' },
         { title: 'Instagram', url: 'https://www.instagram.com/_itz._.me._.vasann/' },
         // Add more links here
     ];
